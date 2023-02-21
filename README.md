@@ -1,2 +1,2 @@
 # Mvga
-# live link >>> https://rahique.github.io/Mvga/
+# live link >>> https://rahique.github.io/mvga/
